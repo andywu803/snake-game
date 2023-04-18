@@ -5,6 +5,6 @@ A simple snake game made in Python using the Turtle library. The controls are ei
 **Reference**
 1. [GeeksForGeeks Tutorial](https://www.geeksforgeeks.org/create-a-snake-game-using-turtle-in-python/)
 
-**Gameplay**\
+**Gameplay**
 
 ![snake](https://user-images.githubusercontent.com/32732757/232633200-7924ad91-96e0-4fea-a24d-6e33d75b9730.gif)
